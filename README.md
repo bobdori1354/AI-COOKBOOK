@@ -17,4 +17,4 @@ https://github.com/bobdori1354/AI-COOKBOOK
 5. cmd에서 streamlit run streamlit_AI_COOKBOOK_app.py를 실행하면 사용가능
 
 
-# pyarmor로 ffc api가 보호되어있어 일부 환경에서는 작동하지 않을 수도 있습니다!
+pyarmor로 ffc api가 보호되어있어 일부 환경에서는 작동하지 않을 수도 있습니다!
